@@ -1,25 +1,20 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Monster.DarkDragon
+namespace Monsters.DarkDragon
 {
     public class DrkDragonAttack : MonoBehaviour
     {
         public Slider ManaSlider;
         public int currentMana;
 
-        private GameObject enemy; //The enemy
         private DragonClass darkDragon; //The Dragon Attacking
         private Animator anim;
-        private DragonClass enemyMonster;
+        public Transform terror_dragon;
 
         private void Awake()
         {
             darkDragon = GetComponent<DragonClass>();
-
-            enemy = GameObject.FindGameObjectWithTag("Monster");
-            enemyMonster = enemy.GetComponent<DragonClass>();
-
             anim = GetComponent<Animator>();
         }
 
@@ -30,21 +25,22 @@ namespace Monster.DarkDragon
 
         private void Update()
         {
+            Debug.Log(darkDragon.isDead);
+            Debug.Log(darkDragon.isWinner);
+            if (darkDragon.currentHealth > 0 && !darkDragon.isWinner)
+            {
+                transform.LookAt(terror_dragon);
+                if (Vector3.Distance(terror_dragon.transform.position, this.transform.position) < 0.175)
+                {
+                    anim.SetTrigger("Attack");
+                }
+            }
+            else if (darkDragon.isWinner)
+            {
+                anim.Play("idle");
+            }
         }
 
-        void Attack01()
-        {
-            int dmg = darkDragon.physycalDmg + 120;
-
-            enemyMonster.TakeDamge(dmg);
-        }
-
-        void Attack02()
-        {
-            int dmg = darkDragon.magicDmg + 250;
-            currentMana -= 350;
-            ManaSlider.value = currentMana;
-            enemyMonster.TakeDamge(dmg);
-        }
+    
     }
 }

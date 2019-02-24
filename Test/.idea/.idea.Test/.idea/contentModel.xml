@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Halo\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Halo\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Test.-242086109.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Halo\Documents\Unity\Dragon-FightClub\MIX_Fight_Club-master\Test" t="IncludeRecursive">
+    <e p="C:\Users\andre\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\andre\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Test.-1160362953.00" t="ExcludeRecursive" />
+    <e p="D:\ICT\7th semester\MIX\Projects\MIX_Fight_Club\Test" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="RainEntertainment" t="Include">
@@ -16,8 +16,13 @@
         <e p="Scripts" t="Include">
           <e p="Monsters" t="Include">
             <e p="DarkDragon" t="Include">
-              <e p="DragonClass.cs" t="Include" />
+              <e p="AttackOnSightDrkDragon.cs" t="Include" />
               <e p="DrkDragonAttack.cs" t="Include" />
+            </e>
+            <e p="DragonClass.cs" t="Include" />
+            <e p="TerrorBringer" t="Include">
+              <e p="AttackOnSightTerror.cs" t="Include" />
+              <e p="TerrorBringerAtk.cs" t="Include" />
             </e>
           </e>
         </e>
