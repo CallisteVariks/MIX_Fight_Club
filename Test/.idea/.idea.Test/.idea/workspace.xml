@@ -2,24 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6df204d6-e2e0-4790-b87f-a460bf0c3269" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/AttackOnSightTerror.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/AttackOnSightTerror.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonTracking.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonTracking.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/PlayOnStateChange.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/PlayOnStateChange.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Test/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Test/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/FreeDragons/Animators/TerrorbringerCTRL.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeDragons/Animators/TerrorbringerCTRL.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/RainEntertainment/FantasyMonster/DarkDragon/Controller/DarkDragon.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RainEntertainment/FantasyMonster/DarkDragon/Controller/DarkDragon.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/DragonClass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/DragonClass.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/DrkDragonAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/DrkDragonAttack.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonBoar.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QCAR/somedata16" beforeDir="false" afterPath="$PROJECT_DIR$/QCAR/somedata16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,59 +24,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/DrkDragonAttack.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/PlayOnStateChange.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            <state relative-caret-position="210">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
               <folding>
-                <marker date="1551040831800" expanded="true" signature="6:40" ph="..." />
-                <marker date="1551040831800" expanded="true" signature="71:1162" ph="{...}" />
-                <marker date="1551040831800" expanded="true" signature="122:1160" ph="{...}" />
-                <marker date="1551040831800" expanded="true" signature="359:478" ph="{...}" />
-                <marker date="1551040831800" expanded="true" signature="508:571" ph="{...}" />
-                <marker date="1551040831800" expanded="true" signature="602:1148" ph="{...}" />
-                <marker date="1551040831800" expanded="true" signature="768:1033" ph="{...}" />
-                <marker date="1551040831800" expanded="true" signature="936:1019" ph="{...}" />
-                <marker date="1551040831800" expanded="true" signature="1075:1138" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/TerrorBringerAtk.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-              <folding>
-                <marker date="1551040082713" expanded="false" signature="6:40" ph="..." />
-                <marker date="1551040082713" expanded="true" signature="74:1244" ph="{...}" />
-                <marker date="1551040082713" expanded="true" signature="126:1242" ph="{...}" />
-                <marker date="1551040082713" expanded="true" signature="407:558" ph="{...}" />
-                <marker date="1551040082713" expanded="true" signature="638:704" ph="{...}" />
-                <marker date="1551040082713" expanded="true" signature="770:1236" ph="{...}" />
-                <marker date="1551040082713" expanded="true" signature="856:1118" ph="{...}" />
-                <marker date="1551040082713" expanded="true" signature="1020:1103" ph="{...}" />
-                <marker date="1551040082713" expanded="true" signature="1163:1226" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/AttackOnSightDrkDragon.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-              <folding>
-                <marker date="1551041211714" expanded="true" signature="49:1277" ph="{...}" />
-                <marker date="1551041211714" expanded="true" signature="107:1275" ph="{...}" />
-                <marker date="1551041211714" expanded="true" signature="249:910" ph="{...}" />
-                <marker date="1551041211714" expanded="true" signature="329:900" ph="{...}" />
-                <marker date="1551041211714" expanded="true" signature="402:886" ph="{...}" />
-                <marker date="1551041211714" expanded="true" signature="549:706" ph="{...}" />
-                <marker date="1551041211714" expanded="true" signature="731:851" ph="{...}" />
-                <marker date="1551041211714" expanded="true" signature="942:1269" ph="{...}" />
+                <marker date="1551086274742" expanded="true" signature="38:518" ph="{...}" />
+                <marker date="1551086274742" expanded="true" signature="91:516" ph="{...}" />
+                <marker date="1551086274742" expanded="true" signature="193:299" ph="{...}" />
+                <marker date="1551086274742" expanded="true" signature="334:389" ph="{...}" />
+                <marker date="1551086274742" expanded="true" signature="426:510" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -91,40 +42,64 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="613">
+              <caret line="74" column="60" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
               <folding>
-                <marker date="1551040001975" expanded="false" signature="6:40" ph="..." />
-                <marker date="1551040001975" expanded="true" signature="60:1502" ph="{...}" />
-                <marker date="1551040001975" expanded="true" signature="107:1500" ph="{...}" />
-                <marker date="1551040001975" expanded="true" signature="450:515" ph="{...}" />
-                <marker date="1551040001975" expanded="true" signature="594:650" ph="{...}" />
-                <marker date="1551040001975" expanded="true" signature="717:954" ph="{...}" />
-                <marker date="1551040001975" expanded="true" signature="755:818" ph="{...}" />
-                <marker date="1551040001975" expanded="true" signature="835:944" ph="{...}" />
-                <marker date="1551040001975" expanded="true" signature="997:1339" ph="{...}" />
-                <marker date="1551040001975" expanded="true" signature="1228:1329" ph="{...}" />
-                <marker date="1551040001975" expanded="true" signature="1361:1494" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="6:128" ph="..." />
+                <marker date="1551096575214" expanded="true" signature="148:1829" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="195:1827" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="657:722" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="801:857" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="924:1161" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="962:1025" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="1042:1151" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="1204:1546" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="1435:1536" ph="{...}" />
+                <marker date="1551096575214" expanded="true" signature="1568:1821" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DragonTracking.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="96" column="43" lean-forward="true" selection-start-line="95" selection-start-column="10" selection-end-line="96" selection-end-column="43" />
+              <folding>
+                <marker date="1551087188866" expanded="false" signature="6:33" ph="..." />
+                <marker date="1551087188866" expanded="true" signature="53:4333" ph="{...}" />
+                <marker date="1551087188866" expanded="true" signature="127:4331" ph="{...}" />
+                <marker date="1551087188866" expanded="false" signature="142:404" ph="PROTECTED_MEMBER_VARIABLES" />
+                <marker date="1551087188866" expanded="false" signature="414:916" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+                <marker date="1551087188866" expanded="true" signature="489:689" ph="{...}" />
+                <marker date="1551087188866" expanded="true" signature="733:865" ph="{...}" />
+                <marker date="1551087188866" expanded="false" signature="926:2377" ph="PUBLIC_METHODS" />
+                <marker date="1551087188866" expanded="true" signature="958:1120" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+                <marker date="1551087188866" expanded="true" signature="1268:2339" ph="{...}" />
+                <marker date="1551087188866" expanded="true" signature="1569:1720" ph="{...}" />
+                <marker date="1551087188866" expanded="true" signature="1865:2014" ph="{...}" />
+                <marker date="1551087188866" expanded="true" signature="2031:2329" ph="{...}" />
+                <marker date="1551087188866" expanded="true" signature="2062:2281" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+                <marker date="1551087188866" expanded="true" signature="2387:4325" ph="PROTECTED_METHODS" />
+                <marker date="1551087188866" expanded="true" signature="2462:3581" ph="{...}" />
+                <marker date="1551087188866" expanded="true" signature="3276:3571" ph="{...}" />
+                <marker date="1551087188866" expanded="true" signature="3630:4284" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/AttackOnSightTerror.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneScripts/BattleScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="120">
+              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="46" />
               <folding>
-                <marker date="1551041188666" expanded="false" signature="6:108" ph="..." />
-                <marker date="1551041188666" expanded="true" signature="142:1403" ph="{...}" />
-                <marker date="1551041188666" expanded="true" signature="197:1401" ph="{...}" />
-                <marker date="1551041188666" expanded="true" signature="339:1032" ph="{...}" />
-                <marker date="1551041188666" expanded="true" signature="465:1022" ph="{...}" />
-                <marker date="1551041188666" expanded="true" signature="541:1008" ph="{...}" />
-                <marker date="1551041188666" expanded="true" signature="688:845" ph="{...}" />
-                <marker date="1551041188666" expanded="true" signature="870:990" ph="{...}" />
-                <marker date="1551041188666" expanded="true" signature="1064:1395" ph="{...}" />
+                <marker date="1551088661207" expanded="false" signature="6:53" ph="..." />
+                <marker date="1551088661207" expanded="true" signature="77:255" ph="{...}" />
+                <marker date="1551088661207" expanded="true" signature="125:253" ph="{...}" />
+                <marker date="1551088661207" expanded="true" signature="180:247" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -132,15 +107,24 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/DrkDragonAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/PlayOnStateChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/AttackOnSightDrkDragon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/TerrorBringerAtk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DragonTracking.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/AttackOnSightTerror.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneScripts/BattleScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,11 +134,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AttackScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/BoarDragon/BoarDragonAtk.cs" />
         <option value="$PROJECT_DIR$/Assets/AttackOnSight.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/TerrorBringerAtk.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/DrkDragonAttack.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/AttackOnSightTerror.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/AttackOnSightDrkDragon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayOnStateChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayOnStateChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/PlayOnStateChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonTracking.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneScripts/BattleScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs" />
       </list>
     </option>
   </component>
@@ -176,6 +166,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -198,19 +192,18 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-              <item name="Monsters" type="1045f7f1:UnityExplorerNode" />
-              <item name="DarkDragon" type="1045f7f1:UnityExplorerNode" />
+              <item name="SceneScripts" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-              <item name="Monsters" type="1045f7f1:UnityExplorerNode" />
-              <item name="TerrorBringer" type="1045f7f1:UnityExplorerNode" />
+              <item name="Vuforia" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Packages" type="4e2708dd:PackagesRoot" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Vuforia" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
@@ -218,10 +211,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -274,11 +263,13 @@
       <workItem from="1550922441228" duration="18367000" />
       <workItem from="1551014676114" duration="1946000" />
       <workItem from="1551017020601" duration="12197000" />
+      <workItem from="1551082583967" duration="1495000" />
+      <workItem from="1551084179642" duration="7498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33580000" />
+    <option name="totallyTimeSpent" value="42573000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -292,7 +283,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09968017" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -305,8 +296,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Performance Profiler" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Unity" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -341,57 +332,13 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/Button_touch.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/AttackScript.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackScript.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/BoarDragon/BoarDragonAtk.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="42" column="43" selection-start-line="40" selection-start-column="9" selection-end-line="42" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <marker date="1551040001975" expanded="false" signature="6:40" ph="..." />
-            <marker date="1551040001975" expanded="true" signature="60:1502" ph="{...}" />
-            <marker date="1551040001975" expanded="true" signature="107:1500" ph="{...}" />
-            <marker date="1551040001975" expanded="true" signature="450:515" ph="{...}" />
-            <marker date="1551040001975" expanded="true" signature="594:650" ph="{...}" />
-            <marker date="1551040001975" expanded="true" signature="717:954" ph="{...}" />
-            <marker date="1551040001975" expanded="true" signature="755:818" ph="{...}" />
-            <marker date="1551040001975" expanded="true" signature="835:944" ph="{...}" />
-            <marker date="1551040001975" expanded="true" signature="997:1339" ph="{...}" />
-            <marker date="1551040001975" expanded="true" signature="1228:1329" ph="{...}" />
-            <marker date="1551040001975" expanded="true" signature="1361:1494" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/AttackOnSightTerror.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="29" selection-end-column="21" />
-          <folding>
-            <marker date="1551041188666" expanded="false" signature="6:108" ph="..." />
-            <marker date="1551041188666" expanded="true" signature="142:1403" ph="{...}" />
-            <marker date="1551041188666" expanded="true" signature="197:1401" ph="{...}" />
-            <marker date="1551041188666" expanded="true" signature="339:1032" ph="{...}" />
-            <marker date="1551041188666" expanded="true" signature="465:1022" ph="{...}" />
-            <marker date="1551041188666" expanded="true" signature="541:1008" ph="{...}" />
-            <marker date="1551041188666" expanded="true" signature="688:845" ph="{...}" />
-            <marker date="1551041188666" expanded="true" signature="870:990" ph="{...}" />
-            <marker date="1551041188666" expanded="true" signature="1064:1395" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/BoarDragon/BoarDragonAtk.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/DrkDragonAttack.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="510">
           <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
           <folding>
-            <marker date="1551040831800" expanded="true" signature="6:40" ph="..." />
+            <marker date="1551040831800" expanded="false" signature="6:40" ph="..." />
             <marker date="1551040831800" expanded="true" signature="71:1162" ph="{...}" />
             <marker date="1551040831800" expanded="true" signature="122:1160" ph="{...}" />
             <marker date="1551040831800" expanded="true" signature="359:478" ph="{...}" />
@@ -406,7 +353,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/TerrorBringerAtk.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="435">
           <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
           <folding>
             <marker date="1551040082713" expanded="false" signature="6:40" ph="..." />
@@ -422,9 +369,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/TerrorBringer/AttackOnSightTerror.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <marker date="1551041188666" expanded="false" signature="6:108" ph="..." />
+            <marker date="1551041188666" expanded="true" signature="142:1403" ph="{...}" />
+            <marker date="1551041188666" expanded="true" signature="197:1401" ph="{...}" />
+            <marker date="1551041188666" expanded="true" signature="339:1032" ph="{...}" />
+            <marker date="1551041188666" expanded="true" signature="465:1022" ph="{...}" />
+            <marker date="1551041188666" expanded="true" signature="541:1008" ph="{...}" />
+            <marker date="1551041188666" expanded="true" signature="688:845" ph="{...}" />
+            <marker date="1551041188666" expanded="true" signature="870:990" ph="{...}" />
+            <marker date="1551041188666" expanded="true" signature="1064:1395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DarkDragon/AttackOnSightDrkDragon.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="330">
           <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
             <marker date="1551041211714" expanded="true" signature="49:1277" ph="{...}" />
@@ -435,6 +400,121 @@
             <marker date="1551041211714" expanded="true" signature="549:706" ph="{...}" />
             <marker date="1551041211714" expanded="true" signature="731:851" ph="{...}" />
             <marker date="1551041211714" expanded="true" signature="942:1269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/PlayOnStateChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PlayOnStateChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+          <folding>
+            <marker date="1551086266102" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
+            <marker date="1551086266102" expanded="true" signature="374:401" ph="..." />
+            <marker date="1551086266102" expanded="true" signature="403:695" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
+            <marker date="1551086266102" expanded="true" signature="777:4180" ph="{...}" />
+            <marker date="1551086266102" expanded="true" signature="784:1030" ph="PROTECTED_MEMBER_VARIABLES" />
+            <marker date="1551086266102" expanded="false" signature="1036:1490" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+            <marker date="1551086266102" expanded="true" signature="1107:1287" ph="{...}" />
+            <marker date="1551086266102" expanded="true" signature="1327:1443" ph="{...}" />
+            <marker date="1551086266102" expanded="true" signature="1496:2819" ph="PUBLIC_METHODS" />
+            <marker date="1551086266102" expanded="true" signature="1524:1674" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+            <marker date="1551086266102" expanded="true" signature="1810:2785" ph="{...}" />
+            <marker date="1551086266102" expanded="true" signature="2087:2222" ph="{...}" />
+            <marker date="1551086266102" expanded="true" signature="2359:2492" ph="{...}" />
+            <marker date="1551086266102" expanded="true" signature="2505:2779" ph="{...}" />
+            <marker date="1551086266102" expanded="true" signature="2528:2739" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+            <marker date="1551086266102" expanded="true" signature="2825:4178" ph="PROTECTED_METHODS" />
+            <marker date="1551086266102" expanded="true" signature="2896:3497" ph="{...}" />
+            <marker date="1551086266102" expanded="true" signature="3543:4141" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/PlayOnStateChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <marker date="1551086274742" expanded="true" signature="38:518" ph="{...}" />
+            <marker date="1551086274742" expanded="true" signature="91:516" ph="{...}" />
+            <marker date="1551086274742" expanded="true" signature="193:299" ph="{...}" />
+            <marker date="1551086274742" expanded="true" signature="334:389" ph="{...}" />
+            <marker date="1551086274742" expanded="true" signature="426:510" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneScripts/BattleScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <marker date="1551088661207" expanded="false" signature="6:53" ph="..." />
+            <marker date="1551088661207" expanded="true" signature="77:255" ph="{...}" />
+            <marker date="1551088661207" expanded="true" signature="125:253" ph="{...}" />
+            <marker date="1551088661207" expanded="true" signature="180:247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DragonClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="74" column="60" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
+          <folding>
+            <marker date="1551096575214" expanded="true" signature="6:128" ph="..." />
+            <marker date="1551096575214" expanded="true" signature="148:1829" ph="{...}" />
+            <marker date="1551096575214" expanded="true" signature="195:1827" ph="{...}" />
+            <marker date="1551096575214" expanded="true" signature="657:722" ph="{...}" />
+            <marker date="1551096575214" expanded="true" signature="801:857" ph="{...}" />
+            <marker date="1551096575214" expanded="true" signature="924:1161" ph="{...}" />
+            <marker date="1551096575214" expanded="true" signature="962:1025" ph="{...}" />
+            <marker date="1551096575214" expanded="true" signature="1042:1151" ph="{...}" />
+            <marker date="1551096575214" expanded="true" signature="1204:1546" ph="{...}" />
+            <marker date="1551096575214" expanded="true" signature="1435:1536" ph="{...}" />
+            <marker date="1551096575214" expanded="true" signature="1568:1821" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DragonTracking.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="96" column="43" lean-forward="true" selection-start-line="95" selection-start-column="10" selection-end-line="96" selection-end-column="43" />
+          <folding>
+            <marker date="1551087188866" expanded="false" signature="6:33" ph="..." />
+            <marker date="1551087188866" expanded="true" signature="53:4333" ph="{...}" />
+            <marker date="1551087188866" expanded="true" signature="127:4331" ph="{...}" />
+            <marker date="1551087188866" expanded="false" signature="142:404" ph="PROTECTED_MEMBER_VARIABLES" />
+            <marker date="1551087188866" expanded="false" signature="414:916" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+            <marker date="1551087188866" expanded="true" signature="489:689" ph="{...}" />
+            <marker date="1551087188866" expanded="true" signature="733:865" ph="{...}" />
+            <marker date="1551087188866" expanded="false" signature="926:2377" ph="PUBLIC_METHODS" />
+            <marker date="1551087188866" expanded="true" signature="958:1120" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+            <marker date="1551087188866" expanded="true" signature="1268:2339" ph="{...}" />
+            <marker date="1551087188866" expanded="true" signature="1569:1720" ph="{...}" />
+            <marker date="1551087188866" expanded="true" signature="1865:2014" ph="{...}" />
+            <marker date="1551087188866" expanded="true" signature="2031:2329" ph="{...}" />
+            <marker date="1551087188866" expanded="true" signature="2062:2281" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+            <marker date="1551087188866" expanded="true" signature="2387:4325" ph="PROTECTED_METHODS" />
+            <marker date="1551087188866" expanded="true" signature="2462:3581" ph="{...}" />
+            <marker date="1551087188866" expanded="true" signature="3276:3571" ph="{...}" />
+            <marker date="1551087188866" expanded="true" signature="3630:4284" ph="{...}" />
           </folding>
         </state>
       </provider>

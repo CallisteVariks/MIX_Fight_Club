@@ -20,10 +20,15 @@
               <e p="DrkDragonAttack.cs" t="Include" />
             </e>
             <e p="DragonClass.cs" t="Include" />
+            <e p="DragonTracking.cs" t="Include" />
+            <e p="PlayOnStateChange.cs" t="Include" />
             <e p="TerrorBringer" t="Include">
               <e p="AttackOnSightTerror.cs" t="Include" />
               <e p="TerrorBringerAtk.cs" t="Include" />
             </e>
+          </e>
+          <e p="SceneScripts" t="Include">
+            <e p="BattleScript.cs" t="Include" />
           </e>
         </e>
         <e p="StreamingAssets" t="Include">

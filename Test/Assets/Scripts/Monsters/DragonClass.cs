@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+﻿using SceneScripts;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.Serialization;
 using UnityEngine.UI;
 
 namespace Monsters
@@ -12,13 +15,16 @@ namespace Monsters
             physycalDmg;
 
         public int currentHealth;
-        public Slider HealthSlider;
-
-        private Animator anim;
-        internal bool isDead;
-        private bool isDamaged;
+        public Slider healthSlider;
         public bool isWinner;
+        public GameObject winnerText;
+        public GameObject rematchButton;
 
+        internal bool isDead;
+        internal bool wasFound;
+        
+        private Animator anim;
+        private bool isDamaged;
 
         private void Awake()
         {
@@ -52,7 +58,7 @@ namespace Monsters
 
             var totalDmg = amount - (armor / 100) * 5;
             currentHealth -= totalDmg;
-            HealthSlider.value = currentHealth;
+            healthSlider.value = currentHealth;
 
             if (!isDead && currentHealth <= 0)
             {
@@ -65,7 +71,12 @@ namespace Monsters
         {
             isDead = true;
             anim.SetBool("Death", true);
-            Debug.Log("I AM DYING: " + tag);
+
+            winnerText.GetComponent<Text>().text = tag + " loses";
+            
+            rematchButton.SetActive(true);
+            winnerText.SetActive(true);
+
         }
     }
 }
