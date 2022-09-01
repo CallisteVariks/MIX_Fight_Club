@@ -1,6 +1,6 @@
 # MIX_Project
 
-<bold><underline>Description:</bold></underline>
+<b><u>Description:</b></u>
 
 Fight Club is intended to make use of AR through a 2-player battle played with a specially printed deck and a smartphone mobile app. The game’s idea is simple: a virtual fight between your little “pet” and your opponent’s.
 The deck consists of currently 2 cards available, each with its own dragon image. The aim of the game is to be the last player with a dragon alive.
