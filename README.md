@@ -9,4 +9,4 @@ In order to start battling, the players will push their cards forward. At which 
 
 
 <br><br>
-<img src="https://www.kaylajklab.com/uploads/1/3/0/4/130464583/mix-fight-club_orig.png"/>
+<img src="https://www.kaylajklab.com/uploads/1/3/0/4/130464583/mix-fight-club3_orig.png"/>
